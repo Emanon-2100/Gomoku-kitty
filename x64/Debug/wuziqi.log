@@ -1,0 +1,4 @@
+﻿  wuziqi.cpp
+C:\Users\ASUS\source\repos\wuziqi\wuziqi\wuziqi.cpp(953,13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\ASUS\source\repos\wuziqi\wuziqi\wuziqi.cpp(1289,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  wuziqi.vcxproj -> C:\Users\ASUS\source\repos\wuziqi\x64\Debug\wuziqi.exe
